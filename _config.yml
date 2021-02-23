@@ -56,31 +56,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Arseniy C."
+  name   : "Арсений"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "bio_1"
+  bio    : "Делаю разное."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/dp4qb"
+    - label: "VK"
+      icon: "fab fa-fw fa-vk"
       url: "https://vk.com/avc"
-    - label: "GitHub"
+    - label: "vas3k"
+      icon: "fas fa-fw fa-link"
+      url: "https://vas3k.club/user/avc"
+    - label: "GH"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dp4qb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dp4qb"
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/dp4qb"
+    - label: "VK"
+      icon: "fab fa-fw fa-vk"
       url: "https://vk.com/avc"
-    - label: "GitHub"
+    - label: "vas3k"
+      icon: "fas fa-fw fa-link"
+      url: "https://vas3k.club/user/avc"
+    - label: "GH"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dp4qb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dp4qb"
 
 defaults:
   # _posts
