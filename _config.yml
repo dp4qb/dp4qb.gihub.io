@@ -16,13 +16,14 @@
 locale: "ru-RU"
 title: avc
 subtitle: A as in Arseniy, V for vendetta, C like russan c.
+# url: https://txt.avc.su
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Мысли про своё место в умном доме.
 #twitter_username: username
 github_username: dp4qb
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
