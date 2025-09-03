@@ -1,5 +1,5 @@
 ---
-title: "По тегам"
+title: "Tags"
 permalink: /tags/
 layout: tags
 author_profile: true

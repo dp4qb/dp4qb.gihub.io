@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "О себе"
+title: "About me"
 ---
 
-Либо хорошо, либо как получится.
+Turning electricity back into heat.
