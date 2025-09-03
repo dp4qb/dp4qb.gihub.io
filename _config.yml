@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: "ru-RU"
+locale: "en-US"
 title: avc
 subtitle: A as in Arseniy, V for Vendetta, C like russian с.
 url: https://txt.avc.su
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Мысли про своё место в умном доме.
+  Thoughts about my place in smart home
 #twitter_username: username
 github_username: dp4qb
 minimal_mistakes_skin: default
@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Арсений"
+  name   : "Arsenii"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Делаю разное."
+  bio    : "Doing stuff that mostly works"
   links:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"

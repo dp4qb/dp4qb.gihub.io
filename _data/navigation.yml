@@ -1,9 +1,9 @@
 main:
-  - title: "Посты"
+  - title: "Posts"
     url: /posts/
-  - title: "Категории"
+  - title: "Categories"
     url: /categories/
-  - title: "Теги"
+  - title: "Tags"
     url: /tags/
-  - title: "О себе"
+  - title: "O sebe"
     url: /about/
